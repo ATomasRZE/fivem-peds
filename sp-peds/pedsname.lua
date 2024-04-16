@@ -5,6 +5,7 @@ Config.Peds = {
 				"LedgerJoker",
 				"frost",
 				"iq",
+				"Roger",
 			}
 		}
 	}
