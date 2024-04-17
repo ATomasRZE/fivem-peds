@@ -1,2 +1,8 @@
 fx_version 'cerulean'
-games {'gta5'}
+game 'gta5'
+
+files {
+    'meta/*.meta',
+}
+
+data_file 'PED_METADATA_FILE' '*.meta'
